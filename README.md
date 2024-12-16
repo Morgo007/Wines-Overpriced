@@ -1,4 +1,4 @@
-# wines-overpriced
+# Wines-Overpriced
 
 This repository contains a Jupyter Notebook that uses prediction by inference to assess whether French wines are overpriced, relative to similar wines of similar quality from different countries. 
 
